@@ -126,6 +126,9 @@ Our team focuses on delivering practical, scalable, and business-oriented techno
 
 * Node.js
 * Python
+* java
+* golang
+* c sharp
 
 ### Artificial Intelligence
 
